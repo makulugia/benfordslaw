@@ -1,4 +1,5 @@
 # benfordslaw
+![Screenshot](/screenshot.png "Screenshot")
 Benford's Law
 
 In 1938, Frank Benford published a paper showing the distribution of the leading digit in many disparate sources of data. In all these sets of data, the number 1 was the leading digit about 30% of the time. Benford's law has been found to apply to population numbers, death rates, lengths of rivers, mathematical distributions given by some power law, and physical constants like atomic weights and specific heats.
